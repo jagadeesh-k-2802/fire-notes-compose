@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireNotes</string>
+    <string name="note_hint">Notes</string>
+</resources>
